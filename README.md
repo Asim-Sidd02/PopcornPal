@@ -15,12 +15,15 @@
 
 ## Screenshots
 -------------
-
+### Splash Screen
+![Home Screen](splash.jpg)
 ### Home Screen
-![Home Screen](ss/home.png)
+![Home Screen](home.jpg)
 
-### Album Mixes Screen
-![Album Mixes Screen](ss/album.png)
+### Search Screen
+![Album Mixes Screen](search.jpg)
+### Details Screen
+![Album Mixes Screen](details.jpg)
 
 
 ## Getting Started
